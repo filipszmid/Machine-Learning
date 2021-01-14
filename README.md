@@ -1,2 +1,2 @@
-A repository with solutions to the assignments on Andrew Ng's machine learning Course on Coursera.
-The credis for utils.py goes to @dibgerge[https://github.com/suraggupta]
+A repository with solutions to the programming assigments in subjects: 
+Regression, Neural Networks, SVM, Unsupervised, Learning, PCA, Anomaly, Detection, Recommender System, Photo OCR.
