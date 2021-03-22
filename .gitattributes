@@ -1,7 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 folder/
-7.\ K-means\ Clustering\ and\ Principal\ Component\ Analysis/__pycache__/
+"7. K-means Clustering and Principal Component Analysis"/__pycache__/
 8.\ Anomaly\ Detection\ and\ Recommender\ Systems/__pycache__/
 6.\ Support\ Vector\ Machines/__pycache__/
 5.\ Regularized\ Linear\ Regression/__pycache__/
