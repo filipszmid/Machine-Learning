@@ -10,3 +10,9 @@ Regression, Neural Networks, SVM, Unsupervised, Learning, PCA, Anomaly, Detectio
  6. [Support Vector Machines](https://github.com/Filip-231/Machine-Learning/blob/main/6.%20Support%20Vector%20Machines/6.%20Support%20Vector%20Machines.ipynb)
  7. [K-means Clustering and Principal Component Analysis](https://github.com/Filip-231/Machine-Learning/blob/main/7.%20K-means%20Clustering%20and%20Principal%20Component%20Analysis/7.%20K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
  8. [Anomaly Detection and Recommender Systems](https://github.com/Filip-231/Machine-Learning/blob/main/8.%20Anomaly%20Detection%20and%20Recommender%20Systems/8.%20Anomaly%20Detection%20and%20Recommender%20Systems.ipynb)
+
+## Technologies
+- numpy
+- matplotlib
+- os 
+- scipy
